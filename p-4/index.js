@@ -1,0 +1,2 @@
+//asyncronous
+console.log()
